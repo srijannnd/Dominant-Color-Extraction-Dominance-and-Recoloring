@@ -1,5 +1,5 @@
 # Dominant-Color-Extraction-and-Dominance
-A python program to extract the dominant colors of an image and to visualize their dominance.</br></br></br></br>
+A python program to extract the dominant colors of an image and to visualize their dominance using K-Means clustering algorithm.</br></br></br></br>
 
 ![alt text](https://github.com/srijannnd/Dominant-Color-Extraction-and-Dominance/blob/master/img.jpg)
 
