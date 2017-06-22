@@ -9,12 +9,12 @@ A python program to extract the dominant colors of an image and to visualize the
 
 ![alt text](https://github.com/srijannnd/Dominant-Color-Extraction-and-Dominance/blob/master/image.jpg)
 
-![alt text](https://github.com/srijannnd/Dominant-Color-Extraction-and-Dominance/blob/master/2.jpg)
+![alt text](https://github.com/srijannnd/Dominant-Color-Extraction-and-Dominance/blob/master/2.png)
 
-![alt text](https://github.com/srijannnd/Dominant-Color-Extraction-and-Dominance/blob/master/21.jpg)
+![alt text](https://github.com/srijannnd/Dominant-Color-Extraction-and-Dominance/blob/master/21.png)
 
 ![alt text](https://github.com/srijannnd/Dominant-Color-Extraction-and-Dominance/blob/master/im.jpg)
 
-![alt text](https://github.com/srijannnd/Dominant-Color-Extraction-and-Dominance/blob/master/3.jpg)
+![alt text](https://github.com/srijannnd/Dominant-Color-Extraction-and-Dominance/blob/master/3.png)
 
-![alt text](https://github.com/srijannnd/Dominant-Color-Extraction-and-Dominance/blob/master/31.jpg)
+![alt text](https://github.com/srijannnd/Dominant-Color-Extraction-and-Dominance/blob/master/31.png)
