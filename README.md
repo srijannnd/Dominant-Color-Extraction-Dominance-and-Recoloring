@@ -1,5 +1,5 @@
 # Dominant Color Extraction Dominance and Recoloring
-A python program to extract the dominant colors of an image and to visualize their dominance using K-Means clustering algorithm.</br>
+A python program to extract the dominant colors of an image and to visualize their dominance using K-Means clustering algorithm and then regenerating the image with the help of K centers (dominant colors).</br>
 Dependencies - OpenCV-Python, Numpy, Matplotlib, Scipy, Sklearn
 </br></br></br>
 
